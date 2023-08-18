@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "../../../VSC projects/sdldemo"
+		},
+		{
+			"path": "../../../VSC projects"
+		},
+		{
+			"path": "../../../html_prac"
+		},
+		{
+			"path": "../../../website"
+		},
+		{
+			"path": "../../../../Desktop/website"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"iosfwd": "cpp",
+			"iostream": "cpp",
+			"string": "cpp",
+			"cmath": "cpp",
+			"ostream": "cpp"
+		},
+		"liveServer.settings.multiRootWorkspaceName": "internship"
+	},
+	"extensions": {
+		"recommendations": []
+	}
+}
